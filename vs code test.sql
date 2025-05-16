@@ -1,1 +1,0 @@
-select * from usps_base_rate_Audit
