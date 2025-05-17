@@ -20,5 +20,4 @@ This repository automates the ingestion of FedEx client files from a secure SFTP
 - ✅ Duplicate file prevention with SHA256 hash
 - ✅ Environment-specific configuration via `.env`
 
-## 📁 Folder Structure
 
